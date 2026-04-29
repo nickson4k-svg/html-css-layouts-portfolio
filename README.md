@@ -5,8 +5,8 @@
 
 ### 1. Shoper (E-commerce Layout)
 * **Стек:** HTML5, CSS3 (Flexbox/Grid).
-* **[Live Demo](посилання_на_github_pages/shoper)**
+* **[Live Demo](https://nickson4k-svg.github.io//html-css-layouts-portfolio/bank/)**
 
 ### 2. Bank App UI
 * **Стек:** HTML, CSS.
-* **[Live Demo](посилання_на_github_pages/bank)**
+* **[Live Demo]([посилання_на_github_pages/bank](https://nickson4k-svg.github.io/html-css-layouts-portfolio/cofe/)**
