@@ -10,3 +10,11 @@
 ### 2. Bank App UI
 * **Стек:** HTML, CSS.
 * **[Live Demo](https://nickson4k-svg.github.io//html-css-layouts-portfolio/Shoper/)**
+  
+### 3. Layout:
+* **Стек:** HTML, CSS.
+* **[Live Demo](https://nickson4k-svg.github.io//html-css-layouts-portfolio/layout/)**
+
+* ### 4. Test:
+* **Стек:** HTML, CSS.
+* **[Live Demo](https://nickson4k-svg.github.io//html-css-layouts-portfolio/Test/)**
